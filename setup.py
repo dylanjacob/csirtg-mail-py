@@ -54,7 +54,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'beautifulsoup4',
-        'pyzmail',
+        'pyzmail36',
         'chardet',
         'lxml',
         'html5lib'
