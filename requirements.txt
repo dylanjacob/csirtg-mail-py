@@ -1,4 +1,4 @@
-pyzmail36>=1.0.3,<2.0
+pyzmail36==1.0.3
 beautifulsoup4>=4.4.0
 chardet>=2.3.0
 lxml>=3.5.0
